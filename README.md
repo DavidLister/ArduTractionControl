@@ -1,11 +1,11 @@
 ArduTractionControl
 ===================
 
-Arduino traction control for RC vehicles with independantly driven wheels 
+Arduino traction control for RC vehicles with independently driven wheels 
 
-This is a long term project at not near completition.
+This is a long term project and not near competition.
 
-The ultimate goal is to have a traction control system where an ARM mini computers controls multiple motors via serial to steer an RC vehicle.  Each wheel is to have it's own dedicated Arduino monitering and setting the speed.
+The ultimate goal is to have a traction control system where an ARM mini computer controls multiple motors via serial to steer an RC vehicle.  Each wheel is to have its own dedicated Arduino monitoring and setting the speed.
 
 Current status:
   Hall sensor interface with the arduino and a serial data stream works.
